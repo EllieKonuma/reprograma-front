@@ -1,0 +1,10 @@
+ls - lista as coisas dentro do diretorio
+cd - vai para algum canto
+mkdir - cria um diretorio
+touch - cria um arquivo
+cat - cospe o que tem dentro do arquivo
+echo - retorna o que vc mandar para ele (print) e pode escrever dentro de aquivo
+mv - move ou muda o nome de algo
+cp - copia coisa
+rm - remove
+rm -rf - remove muito FORTE (usar para diretorio (pasta)) 
